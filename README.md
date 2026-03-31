@@ -1,2 +1,2 @@
-this is a readme file whicj consists od the 
+this is a readme file which consists of the 
 cccjf
