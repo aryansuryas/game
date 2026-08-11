@@ -3,3 +3,4 @@
 - Passing score: 62%
 - Version: Exam questions align to the Winter '25 release
 - Registration fee: US$75, JPY¥10,000, plus applicable taxes as required per local law
+trialhead : login
